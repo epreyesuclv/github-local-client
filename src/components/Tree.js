@@ -4,7 +4,7 @@ import { Octokit } from "octokit";
 import FileBrowser from "./FileBrowser";
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
-import he from "he";
+
 import * as Icons from "react-bootstrap-icons";
 
 export default function NestedEditableDemo() {
